@@ -9,18 +9,22 @@
 
 <table align="center" style="width:80%; border-collapse: collapse; margin-top: 20px; background-color: #1e1e2f; color: #ffffff; border-radius: 10px; overflow: hidden; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
   <tr>
-    <td style="padding: 20px; text-align: left; font-family: Arial, sans-serif; font-size: 16px; line-height: 1.8;">
+    <td style="padding: 10px 20px; text-align: left; font-family: Arial, sans-serif; font-size: 16px; line-height: 1.2;">
       <ul style="list-style: none; padding: 0; margin: 0;">
-        <li>🔭 I’m currently working on <strong>Treasure Island-Python Game</strong></li>
-        <li>🌱 I’m currently learning <strong>Python Programming, HTML, CSS, JS</strong></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://minidushashimal.com" target="_blank" style="color: #4fc3f7; text-decoration: none;">minidushashimal.com</a></li>
-        <li>💬 Ask me about <strong>Python, HTML</strong></li>
-        <li>📫 How to reach me <strong>minidushashimal@gmail.com</strong></li>
-        <li>⚡ Fun fact <strong>Call me Shashi</strong></li>
+        <li style="margin-bottom: 5px;"><h5>🔭 I’m currently working on <strong>Treasure Island-Python Game</strong></h5></li>
+        <li style="margin-bottom: 5px;"><h5>🌱 I’m currently learning <strong>Python Programming, HTML, CSS, JS</strong></h5></li>
+        <li style="margin-bottom: 5px;"><h5>👨‍💻 All of my projects are available at <a href="https://minidushashimal.com" target="_blank" style="color: #4fc3f7; text-decoration: none;">minidushashimal.com</a></h5></li>
+        <li style="margin-bottom: 5px;"><h5>💬 Ask me about <strong>Python, HTML</strong></h5></li>
+        <li style="margin-bottom: 5px;"><h5>📫 How to reach me <strong>minidushashimal@gmail.com</strong></h5></li>
+        <li style="margin-bottom: 5px;"><h5>⚡ Fun fact <strong>Call me Shashi</strong></h5></li>
       </ul>
     </td>
   </tr>
 </table>
+
+
+
+
 
 
 <h3 align="center">My Statistics:</h3>
