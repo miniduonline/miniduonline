@@ -17,6 +17,34 @@
 
 - ⚡ Fun fact **Call me as Shashi**
 
+
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=miniduonline&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+ <p align="center">
+  <img
+    title="🔥 Get streak stats for your profile at git.io/streak-stats"
+    alt="Minidu Shashimal's streak stats"
+    src="https://streak-stats.demolab.com/?user=miniduonline&theme=dark&hide_border=false"
+  />
+</p>
+
+
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=miniduonline&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/miniduonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="miniduonline" height="30" width="40" /></a>
@@ -33,8 +61,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/miniduonline"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="miniduonline" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miniduonline&show_icons=true&locale=en&layout=compact" alt="miniduonline" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miniduonline&show_icons=true&locale=en" alt="miniduonline" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miniduonline&" alt="miniduonline" /></p>
