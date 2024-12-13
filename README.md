@@ -15,7 +15,11 @@
         <li><h4>🌱 I’m currently learning <strong>Python Programming, HTML, CSS, JS</strong></h4></li>
         <li><h4>👨‍💻 All of my projects are available at <a href="https://minidushashimal.com" target="_blank" style="color: #4fc3f7; text-decoration: none;">minidushashimal.com</a></h4></li>
         <li><h4>💬 Ask me about <strong>Python, HTML</strong></h4></li>
-        <li><h4>📫 How to reach me <strong>minidushashimal@gmail.com</strong></h4></li>
+<li>
+  <h4>📫 How to reach me: 
+    <a href="mailto:minidushashimal@gmail.com"><strong>minidushashimal@gmail.com</strong></a>
+  </h4>
+</li>
         <li><h4>⚡ Fun fact <strong>Call me Shashi</strong></h4></li>
       </ul>
     </td>
