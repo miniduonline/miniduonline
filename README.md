@@ -38,14 +38,11 @@
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=miniduonline&theme=dark&show_icons=true&count_private=true" />
         <br><br>
-        <p align="center">
-          <img
-            title="🔥 Get streak stats for your profile at git.io/streak-stats"
-            alt="Minidu Shashimal's streak stats"
-            src="https://streak-stats.demolab.com/?user=miniduonline&theme=dark&hide_border=false"
-          />
-        </p>
-      </td>
+
+
+
+
+  </td>
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=miniduonline&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
       </td>
